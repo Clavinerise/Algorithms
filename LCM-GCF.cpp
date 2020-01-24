@@ -5,7 +5,7 @@
 #include<iostream>
 #include<vector>
 
-// Loop-based gcm algo
+// Loop-based GCD algo
 int gcd(int a, int b) {
 	// assume b is greater than a
 	int r = a;
@@ -17,7 +17,7 @@ int gcd(int a, int b) {
 	return r;
 }
 
-// Recursive gcm algo
+// Recursive GCD algo
 int gcdR(int a, int b) {
 	if(a == 0) {
 		return b;
