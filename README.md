@@ -4,3 +4,5 @@ Will continuously update this list of common algorithms for personal reference a
 
 - [Euclidean Algorithm](./LCM-GCF.cpp)
 - [Exponential Square Algorithm](./exponential-squaring.cpp)
+- Permutation
+  - [Heap's Algorithm](./heaps-algorithm.cpp)
