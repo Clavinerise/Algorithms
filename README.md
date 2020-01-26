@@ -6,3 +6,4 @@ Will continuously update this list of common algorithms for personal reference a
 - [Exponential Square Algorithm](./exponential-squaring.cpp)
 - Permutation
   - [Heap's Algorithm](./heaps-algorithm.cpp)
+  - [Simple backtracking](perm-backtracking.cpp)
