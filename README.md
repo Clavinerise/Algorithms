@@ -10,3 +10,4 @@ Will continuously update this list of common algorithms for study reference as I
 - Sorting
   - [Insertion Sort](./insertion-sort.cpp)
 - [Two String Anagram Check](./string-anagram.cpp)
+- [Basic Palindrome Check](./basic-palindrome-check.cpp)
