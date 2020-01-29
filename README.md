@@ -9,3 +9,4 @@ Will continuously update this list of common algorithms for study reference as I
   - [Simple backtracking](./perm-backtracking.cpp)
 - Sorting
   - [Insertion Sort](./insertion-sort.cpp)
+- [Two String Anagram Check](./string-anagram.cpp)
