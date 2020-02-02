@@ -19,7 +19,7 @@ std::ostream& operator<< (std::ostream &out, const std::vector<int> &arr) {
 }
 
 void merge(std::vector<int> &arr, int start, int mid, int end) {
-	int len1 = mid - start; // length of left array
+	int len1 = mid - start + 1; // length of left array
 	int len2 = end - mid; // length of right array
 
 	std::vector<int> left;
@@ -28,8 +28,8 @@ void merge(std::vector<int> &arr, int start, int mid, int end) {
 	int i = 0;
 	int j = 0;
 
-	for(i = 0; i <= len1; i++) {
-		left.push_back(arr[start+i]);
+	for(i = 1; i <= len1; i++) {
+		left.push_back(arr[start+i-1]);
 	}
 	// index after mid
 	for(j = 1; j <= len2; j++) {
