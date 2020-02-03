@@ -1,6 +1,8 @@
 /*
     Insertion sort
     The algorithm sorts the input numbers in place.
+    best case: O(n)
+    worse case: O(n^2)
 */
 
 #include<iostream>
