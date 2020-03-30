@@ -1,6 +1,6 @@
 # Common Algorithms
 
-Will continuously update this list of common algorithms for study reference as I relearn them. Open to advice and suggestions. My aim is to upload one a day.
+Will continuously update this list of common algorithms for study reference as I relearn them.
 
 - [Euclidean Algorithm](./LCM-GCF.cpp)
 - [Exponential Square Algorithm](./exponential-squaring.cpp)
@@ -13,3 +13,34 @@ Will continuously update this list of common algorithms for study reference as I
   - [Bubble Sort](./bubblesort.cpp)
 - [Two String Anagram Check](./string-anagram.cpp)
 - [Basic Palindrome Check](./basic-palindrome-check.cpp)
+
+
+#
+### TODO Algorithms
+- **Basics / Data Structures**
+  - Primitives / Arrays / Objects / Maps / Sets 
+  - Big O / Time Complexity 
+  - Stacks 
+  - Queues 
+  - Linked Lists 
+  - Trees
+  - Hash Tables 
+  - Binary Trees 
+  - Bloom Filters
+  - Tries
+- **Sorting**
+  - Selection Sort 
+  - Quick Sort 
+  - Heap Sort
+  - Radix Sort
+- **Searching**
+  - Breadth First Search 
+  - Depth First Search
+  - In-Order Traversal
+  - Pre / Post Order Traversal
+- **Graphs & Paths**
+  - Graphs
+  - Matrix
+  - Adjacency List
+- **Dynamic Programming**
+  - ...
